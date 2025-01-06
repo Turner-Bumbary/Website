@@ -1,30 +1,30 @@
 ## Header
 - id: "logo_text1"
-  translation: "Cool"
+  translation: "Turner"
 
 - id: "logo_text2"
-  translation: "Name"
+  translation: "Bumbary"
 
 ## Footer
 - id: "footer_notice"
-  translation: "© Adritian. Free Hugo theme by Adrián Moreno Peña."
+  translation: "© 2025 Turner Bumbary. All rights reserved."
 
 - id: "language"
   translation: "Language"
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Demo site for Adritian - a high performance hugo theme by Adrián Moreno"
+  translation: "Turner Bumbary - Portfolio"
 
 - id: "head_description"
-  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  translation: "This website showcases my projects and skills. The website was forked from Adrian Moreno at https://themes.gohugo.io/themes/adritian-free-hugo-theme/."
 
 ## Homepage showcase
 - id: "showcase_title"
-  translation: "Hello, I’m Cool."
+  translation: "Turner Bumbary"
 
 - id: "showcase_subtitle"
-  translation: "This is my title"
+  translation: "Aerospace Engineer"
 
 - id: "showcase_description"
   translation: "This is a good place to start with an introduction about yourself. Maybe a mention to the place <a target='_blank' href='https://www.adrianmoreno.info/'>where you work</a>. You can also mention where you live, your background and what's the purpose of the site. <br>You can download this theme from <a target='_blank' href='https://github.com/zetxek/adritian-free-hugo-theme'>github</a>, and see it live <a target='_blank' href='https://adritian-demo.vercel.app//'>as a demo site</a> or <a target='_blank' href='https://www.adrianmoreno.info'>a real one</a>.<br>You can find this content to edit in the theme.yaml file."
