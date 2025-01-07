@@ -9,9 +9,9 @@ showcase:
   imageMobile:
     x: "images/showcase/showcase-mobile.jpg"
 
-  # button:
-  #   icon: "icon-email"
-  #   URL: "https://www.turnerbumbary.com/"
+  button:
+    icon: "icon-email"
+    URL: "https://www.turnerbumbary.com/#contact"
 
 # about
 about:
