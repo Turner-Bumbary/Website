@@ -21,36 +21,52 @@
 
 ## Homepage showcase
 - id: "showcase_title"
-  translation: "Turner Bumbary"
+  translation: "Hi, I'm Turner."
 
 - id: "showcase_subtitle"
   translation: "Aerospace Engineer"
 
 - id: "showcase_description"
-  translation: "This is a good place to start with an introduction about yourself. Maybe a mention to the place <a target='_blank' href='https://www.adrianmoreno.info/'>where you work</a>. You can also mention where you live, your background and what's the purpose of the site. <br>You can download this theme from <a target='_blank' href='https://github.com/zetxek/adritian-free-hugo-theme'>github</a>, and see it live <a target='_blank' href='https://adritian-demo.vercel.app//'>as a demo site</a> or <a target='_blank' href='https://www.adrianmoreno.info'>a real one</a>.<br>You can find this content to edit in the theme.yaml file."
+  translation: "I am a master's student at <a target='_blank' href='https://ae.gatech.edu/'>
+    Georgia Tech</a> studying aerospace engineering. My interests lie at the intersection of aerospace
+    and robotics, as I seek to explore how to create intellegent, responsive systems.
+    <br> 
+    Outside of work I keep up multiple hobbies including learning to become an amateur pilot, 
+    training for long-distance races, and working on projects. Check out this website to follow 
+    some of the projects I have been working on!."
 
 - id: "showcase_button"
   translation: "Contact"
 
   ## not visible but used for accessibility
 - id: "showcase_image_alt"
-  translation: "A picture of Cool Name"
+  translation: "A picture of me (Turner)"
 
 ## Homepage about
 - id: "about_title"
   translation: "Who am I?"
 
 - id: "about_content"
-  translation:  <p class="lead">
-      Here you can add some information about you. A small excerpt that describes 
-      your experience, for example.   
-      </p>
-      <p class="lead">
-      You explain something about your academic/study background, as well as your
-      preferred areas of work. Think of this area as context-setting for the experience
-      that you will describe below. Why did you change jobs? What drove you to take a 
-      new gig? Even if you are not looking for a job, it's a good way to hint about
-      what kind of projects you are interested in.
+  translation:
+    <p class="lead">
+      I am a second leuitenant in the <a target='_blank' href='https://www.af.mil/'>
+      U.S. Air Force</a> and motivated by a commitement to service. Through my family's 
+      history of military service, I have learned to appreciate the sacrifices countless
+      Americans have made to defend the values and ideals of this country.
+    </p>
+
+    <p class="lead">
+      As an engineer, I seek to use technology to make sure that all soldiers return 
+      home to their families. I believe that technology can help transition our society to become more ethical, 
+      advanced, and humane. So far my professional experiences have spanned from air and space to cyberspace. I am
+      cosntantly focused on improving myself and learning new technologies.
+    </p>
+    
+    <p class="lead">
+      As an individual, I am a pragmatists and deeply analytical. I enjoy working on interdisciplinary teams 
+      in cross-functional roles. I am currently a <a target='_blank' href='https://www.gemfellowship.org/gem-fellowship-program/'>GEM Fellow</a>
+      and member of the <a target='_blank' href='https://areal.ae.gatech.edu/'>Aerial Robotics and Experimental Autonomy Lab</a> at Georgia Tech.
+      I look forward to continuing to learn from others, creating new technologies, and making a positive difference in the world.
     </p>
 
 - id: "about_button"
@@ -65,13 +81,14 @@
   translation: "Experience"
 
 - id: "experience_description"
-  translation: "This is where you can highlight a bit over your experience. Years of total experience, specialization, etc."
+  translation: "My experience spans from academia to industry, where I have worked on small projects and large programs. I am always 
+  looking for roles with deep technical challenges and opportunities to grow!"
 
 - id: "experience_button"
   translation: "LinkedIn" 
 
 - id: "experience_button_url"
-  translation: "https://www.linkedin.com/in/adrianmoreno/"
+  translation: "https://www.linkedin.com/in/turner-bumbary/"
 
 - id: "experience_button2"
   translation: "Download resume"
@@ -80,7 +97,7 @@
   translation: "/img/general/user-smile-fill.svg"
 
 - id: "experience_button3"
-  translation: "View all"
+  translation: "Download Portfolio"
 
 - id: "experience_button3_url"
   translation: "/experience"
@@ -132,19 +149,19 @@
   translation: "Phone Number"
 
 - id: "contact_phone_number"
-  translation: "+555 (11) 123 44 55"
+  translation: "(202) 864 9623"
 
 - id: "contact_email_title"
   translation: "Email"
 
 - id: "contact_email_email"
-  translation: '<a href="mailto:mail@example.com">mail@example.com</a>'
+  translation: '<a href="mailto:tbumbary@gatech.edu">tbumbary@gatech.edu</a>'
 
 - id: "contact_address_title"
   translation: "Address"
 
 - id: "contact_address_address"
-  translation: "Exact street/neighborhood (you can omit this)<br />Postcode, City"
+  translation: "Georgia Institute of Technology <br> Atlanta, GA 30332"
 
 - id: "contact_button"
   translation: "Send Message"
