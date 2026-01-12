@@ -27,13 +27,18 @@
   translation: "Aerospace Engineer"
 
 - id: "showcase_description"
-  translation: "I am a master's student at <a target='_blank' href='https://ae.gatech.edu/'>
-    Georgia Tech</a> studying aerospace engineering. My interests lie at the intersection of aerospace
-    and robotics, as I seek to explore how to create intellegent, responsive systems.
-    <br> 
-    Outside of work I keep up multiple hobbies including learning to become an amateur pilot, 
-    training for long-distance races, and working on projects. Check out this website to follow 
-    some of the projects I have been working on!."
+  translation: 
+    <p class="lead">
+      I am a master's student at <a target='_blank' href='https://ae.gatech.edu/'>
+      Georgia Tech</a> studying aerospace engineering. My interests lie at the intersection of aerospace
+      and robotics, as I seek to explore how to create intellegent, responsive systems.
+    </p>
+
+    <p class="lead"> 
+      Outside of work I keep up multiple hobbies including learning to become an amateur pilot, 
+      training for long-distance races, and working on projects. Check out this website to follow 
+      some of the projects I have been working on!
+    </p>
 
 - id: "showcase_button"
   translation: "Contact"
@@ -50,21 +55,20 @@
   translation:
     <p class="lead">
       I am a second leuitenant in the <a target='_blank' href='https://www.af.mil/'>
-      U.S. Air Force</a> and motivated by a commitement to service. Through my family's 
-      history of military service, I have learned to appreciate the sacrifices countless
-      Americans have made to defend the values and ideals of this country.
+      U.S. Air Force</a> and motivated by a commitement to service. Through my military service,
+      I have learned to appreciate the sacrifices countless Americans have made to defend the values and ideals of this nation.
     </p>
 
     <p class="lead">
       As an engineer, I seek to use technology to make sure that all soldiers return 
-      home to their families. I believe that technology can help transition our society to become more ethical, 
-      advanced, and humane. So far my professional experiences have spanned from air and space to cyberspace. I am
-      cosntantly focused on improving myself and learning new technologies.
+      home to their families. I believe that technology can help transition our society towards becoming more ethical, 
+      advanced, and humane. So far my professional experiences have spanned from air to space. I am
+      fascinated by new technologies and deeply enjoy learning.
     </p>
     
     <p class="lead">
       As an individual, I am a pragmatists and deeply analytical. I enjoy working on interdisciplinary teams 
-      in cross-functional roles. I am currently a <a target='_blank' href='https://www.gemfellowship.org/gem-fellowship-program/'>GEM Fellow</a>
+      in cross-functional roles. I am currently an Air Force STEM Scholar, <a target='_blank' href='https://www.gemfellowship.org/gem-fellowship-program/'>GEM Fellow</a>
       and member of the <a target='_blank' href='https://areal.ae.gatech.edu/'>Aerial Robotics and Experimental Autonomy Lab</a> at Georgia Tech.
       I look forward to continuing to learn from others, creating new technologies, and making a positive difference in the world.
     </p>
