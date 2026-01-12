@@ -21,7 +21,7 @@ about:
     URL: "https://www.linkedin.com/in/turner-bumbary/"
   image:
     x: "images/about/military_portrait_edited.png"
-    # _2x: "images/about/user-picture@2x.png"
+    _2x: "images/about/military_portrait_edited.png"
 
 # education
 education:
