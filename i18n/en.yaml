@@ -85,8 +85,7 @@
   translation: "Experience"
 
 - id: "experience_description"
-  translation: "My experience spans from academia to industry, where I have worked on small projects and large programs. I am always 
-  looking for roles with deep technical challenges and opportunities to grow!"
+  translation: "My experience spans from academia to industry, where I have worked on small projects and large programs. I am always looking for roles with deep technical challenges and opportunities to grow!"
 
 - id: "experience_button"
   translation: "LinkedIn" 
