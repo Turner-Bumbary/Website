@@ -44,7 +44,8 @@ experience:
   button2:
     icon: "icon-file-pdf"
   button3:
-    icon: "icon-file-pdf"
+    icon: ""
+    # icon: "icon-file-pdf"
 
 # Client & Work
 client_and_work:
