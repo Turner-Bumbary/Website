@@ -93,17 +93,17 @@
 - id: "experience_button_url"
   translation: "https://www.linkedin.com/in/turner-bumbary/"
 
-- id: "experience_button2"
-  translation: "Download resume"
+# - id: "experience_button2"
+#   translation: "Download resume"
 
-- id: "experience_button2_url"
-  translation: "/img/general/user-smile-fill.svg"
+# - id: "experience_button2_url"
+#   translation: "/img/general/user-smile-fill.svg"
 
-- id: "experience_button3"
-  translation: "Download Portfolio"
+# - id: "experience_button3"
+#   translation: "Download Portfolio"
 
-- id: "experience_button3_url"
-  translation: "/experience"
+# - id: "experience_button3_url"
+#   translation: "/experience"
 
 ## Homepage client & work
 - id: "client_work_title"
