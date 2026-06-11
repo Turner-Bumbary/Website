@@ -42,7 +42,8 @@ experience:
   button:
     icon: "icon-linkedin"
   button2:
-    icon: "icon-file-pdf"
+    icon: ""
+    # icon: "icon-file-pdf"
   button3:
     icon: ""
     # icon: "icon-file-pdf"
