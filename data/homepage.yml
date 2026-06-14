@@ -11,7 +11,7 @@ showcase:
 
   button:
     icon: "icon-email"
-    URL: "https://www.turnerbumbary.com/#contact"
+    URL: "/#contact"
 
 # about
 about:
