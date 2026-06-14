@@ -54,7 +54,7 @@
 - id: "about_content"
   translation:
     <p class="lead">
-      I am a second leuitenant in the <a target='_blank' href='https://www.af.mil/'>
+      I am a second lieutenant in the <a target='_blank' href='https://www.af.mil/'>
       U.S. Air Force</a> and motivated by a commitement to service. Through my military service,
       I have learned to appreciate the sacrifices countless Americans have made to defend the values and ideals of this nation.
     </p>
@@ -93,17 +93,21 @@
 - id: "experience_button_url"
   translation: "https://www.linkedin.com/in/turner-bumbary/"
 
-# - id: "experience_button2"
-#   translation: "Download resume"
+- id: "experience_button2"
+  translation: "Download resume"
 
-# - id: "experience_button2_url"
-#   translation: "/img/general/user-smile-fill.svg"
+# TODO: update resume link to pdf
 
-# - id: "experience_button3"
-#   translation: "Download Portfolio"
+- id: "experience_button2_url"
+  translation: "/img/general/user-smile-fill.svg"
 
-# - id: "experience_button3_url"
-#   translation: "/experience"
+# TODO: update portfolio link to pdf
+
+- id: "experience_button3"
+  translation: "Download Portfolio"
+
+- id: "experience_button3_url"
+  translation: "/experience"
 
 ## Homepage client & work
 - id: "client_work_title"

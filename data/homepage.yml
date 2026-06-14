@@ -42,11 +42,9 @@ experience:
   button:
     icon: "icon-linkedin"
   button2:
-    icon: ""
-    # icon: "icon-file-pdf"
+    icon: "icon-file-pdf"
   button3:
-    icon: ""
-    # icon: "icon-file-pdf"
+    icon: "icon-file-pdf"
 
 # Client & Work
 client_and_work:
