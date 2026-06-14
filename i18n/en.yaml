@@ -162,13 +162,13 @@
   translation: "Email"
 
 - id: "contact_email_email"
-  translation: '<a href="mailto:tbumbary@gatech.edu">tbumbary@gatech.edu</a>'
+  translation: "turnerbumbary [at] gmail [dot] com"
 
 - id: "contact_address_title"
   translation: "Address"
 
 - id: "contact_address_address"
-  translation: "Georgia Institute of Technology <br> Atlanta, GA 30332"
+  translation: "Bldg 584 <br> Nellis AFB, NV 89191"
 
 - id: "contact_button"
   translation: "Send Message"
