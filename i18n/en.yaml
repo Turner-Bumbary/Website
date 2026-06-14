@@ -99,7 +99,7 @@
 # TODO: update resume link to pdf
 
 - id: "experience_button2_url"
-  translation: "/files/Turner Bumbary Resume.pdf"
+  translation: "files/Turner Bumbary Resume.pdf"
 
 - id: "experience_button3"
   translation: "Download Portfolio"
@@ -107,7 +107,7 @@
 # TODO: update portfolio link to pdf
 
 - id: "experience_button3_url"
-  translation: "/files/Turner Bumbary Portfolio.pdf"
+  translation: "files/Turner Bumbary Portfolio.pdf"
 
 ## Homepage client & work
 - id: "client_work_title"
