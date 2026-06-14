@@ -31,21 +31,21 @@
                 <div class="all-experience-container">
                     {{ $xpExtra := sub $xpCount $totalCount }}
                     <em>And {{ $xpExtra }} more</em><br />
-                    <a href="{{ absURL "experience" }}" title="See additional {{ $xpExtra }} experience items"
+                    <a href="{{ absURL "experience" }}" title="All experience"
                         class="btn btn-primary btn-all-experience">
-                        <i class="icon-folder-open"></i> <!-- Icon for opening more experiences -->
-                        See additional {{ $xpExtra }} experience items
+                        All experience
                     </a>
                 </div>
                 {{ end }}
-                <!-- {{ if gt $xpCount $totalCount }}
+                <!-- Implements "see addiitonal # experience items"
+                {{ if gt $xpCount $totalCount }}
                 <div class="all-experience-container">
                     {{ $xpExtra := sub $xpCount $totalCount }}
                     <em>And {{ $xpExtra }} more</em><br />
-                    <a href="{{ absURL "experience" }} " title=" See additional {{ $xpExtra }} experience items"
+                    <a href="{{ absURL "experience" }}" title="See additional {{ $xpExtra }} experience items"
                         class="btn btn-primary btn-all-experience">
-                        <i class="{{ .Site.Data.homepage.experience.button3.icon }}"></i>
-                        {{ i18n "experience_button3" }}
+                        <i class="icon-folder-open"></i>
+                        See additional {{ $xpExtra }} experience items
                     </a>
                 </div>
                 {{ end }} -->
