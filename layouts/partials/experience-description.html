@@ -18,7 +18,7 @@
     </div>
     <div class="col-12 col-lg-4">
       <a
-        href='{{ i18n "experience_button2_url" | absURL }}'
+        href='{{ i18n "experience_button2_url" | relURL }}'
         class="btn btn-frameless"
         target="_blank"
         rel="noopener noreferrer"
@@ -30,7 +30,7 @@
     {{ if .Site.Data.homepage.experience.button3.icon }}
     <div class="col-12 col-lg-4">
       <a
-        href='{{ i18n "experience_button3_url" | absURL }}'
+        href='{{ i18n "experience_button3_url" | relURL }}'
         class="btn btn-frameless"
         rel="noopener noreferrer"
       >

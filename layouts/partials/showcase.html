@@ -12,7 +12,7 @@
           {{ i18n "showcase_description" | safeHTML }}
         </p>
         <a
-          href="{{ .Site.Data.homepage.showcase.button.URL }}"
+          href="{{ .Site.Data.homepage.showcase.button.URL | relURL }}"
           class="btn btn-primary"
         >
           <i class="{{ .Site.Data.homepage.showcase.button.icon }}"></i>

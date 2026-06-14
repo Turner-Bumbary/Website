@@ -11,7 +11,7 @@ showcase:
 
   button:
     icon: "icon-email"
-    URL: "#contact"
+    URL: "/#contact"
 
 # about
 about:
