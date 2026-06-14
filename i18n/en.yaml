@@ -7,7 +7,7 @@
 
 ## Footer
 - id: "footer_notice"
-  translation: "© 2025 Turner Bumbary. All rights reserved."
+  translation: "© 2026 Turner Bumbary. All rights reserved."
 
 - id: "language"
   translation: "Language"
@@ -111,7 +111,7 @@
 
 ## Homepage client & work
 - id: "client_work_title"
-  translation: "Clients & Work"
+  translation: "Past Roles"
 
 ## Homepage newsletter
 - id: "newsletter_title"
