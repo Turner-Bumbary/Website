@@ -29,7 +29,7 @@
               
   {{/* ⚠️ If the image is not found, it will not be displayed - this whole block will be skipped */}} 
 
-  {{ $scalingFactor := 0.35 }}
+  {{ $scalingFactor := 0.3 }}
 
   {{ $newWidth := mul $img.Width $scalingFactor | int }}
   {{ $newHeight := mul $img.Height $scalingFactor | int }}  
