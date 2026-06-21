@@ -29,7 +29,7 @@
               
   {{/* ⚠️ If the image is not found, it will not be displayed - this whole block will be skipped */}} 
 
-  {{ $scalingFactor := 0.5 }}
+  {{ $scalingFactor := 0.35 }}
 
   {{ $newWidth := mul $img.Width $scalingFactor | int }}
   {{ $newHeight := mul $img.Height $scalingFactor | int }}  
@@ -37,8 +37,8 @@
   {{ $imgWebp := $img.Resize (printf "%dx%d webp q75 Lanczos picture" $newWidth $newHeight) }}
   {{ $img2xWebp := $img2x.Resize (printf "%dx%d webp q75 Lanczos picture" (mul $img2x.Width $scalingFactor | int) (mul $img2x.Height $scalingFactor | int)) }}
   
-  {{ printf "OG Width: %d, OG Height: %d" $img.Width $img.Height }}
-  {{ printf "New Width: %d, New Height: %d" $newWidth $newHeight }}
+  <!-- {{ printf "OG Width: %d, OG Height: %d" $img.Width $img.Height }}
+  {{ printf "New Width: %d, New Height: %d" $newWidth $newHeight }} -->
 
   <!-- {{ $imgWebp := $img.Resize (printf "%dx%d webp q75 Lanczos picture" $img.Width $img.Height) }}
   {{ $img2xWebp := $img2x.Resize (printf "%dx%d webp q75 Lanczos picture" $img2x.Width $img2x.Height) }} -->
