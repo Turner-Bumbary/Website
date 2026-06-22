@@ -1,6 +1,7 @@
 {{/* Used for the Client&Works section in the homepage */}}
 {{/* If some content is missing/not displayed, check the images for the client/work */}}
 
+{{ printf "client_and_work.enable: %v" .Site.Data.homepage.client_and_work.enable }}
 
 {{ if .Site.Data.homepage.client_and_work.enable }}
 <section id="portfolio" class="section section--border-bottom">
