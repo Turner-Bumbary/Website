@@ -13,7 +13,8 @@
       <div class="col-12">
         <div class="clients">
           {{ $baseLangSite := .Sites.Default }}
-          {{ $clients := (where .Site.RegularPages.ByDate.Reverse "type" "client-work" | lang.Merge (where $baseLangSite.RegularPages.ByDate.Reverse "type" "client-work") ) }}          
+          {{ $clients := (where .Site.RegularPages.ByDate.Reverse "Type" "client-work" | lang.Merge (where $baseLangSite.RegularPages.ByDate.Reverse "Type" "client-work") ) }} 
+          <p>Number of clients: {{ len $clients }}</p>         
           {{ range $clients }}
           <div class="clients__item">
             <a href="{{ .Params.link }}" aria-label="Link to the client site for {{ .Params.title }} (opens in a new window)" target="_blank">
